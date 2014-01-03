@@ -1,0 +1,1 @@
+This project will allow you to open/close a garage door and also know the status.  It requires hardware as mentioned on Greg Zimmer's website http://netduinohacking.blogspot.com/
